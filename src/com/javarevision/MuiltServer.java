@@ -9,6 +9,7 @@ import java.net.Socket;
 
 public class MuiltServer {
  private int  check=0;
+ private int check23=90;
     public static void main(String[] args) {
         // write your code here
         new MuiltServer();
